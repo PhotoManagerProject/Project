@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Database1>
+        
+    <General_MetaData>
+                
+        <Filter_Category1>Color</Filter_Category1>
+                
+        <Filter_Category2>Quality Grade</Filter_Category2>
+                
+        <Filter_Category3>Manufacturer</Filter_Category3>
+                
+        <Filter_Category4>Price</Filter_Category4>
+                
+        <Filter_Category5>Expiry Date</Filter_Category5>
+                
+        <Filter_Category6>Country</Filter_Category6>
+                
+        <Filter_Category7>Organic</Filter_Category7>
+                
+        <Filter_Category8>Weight</Filter_Category8>
+            
+    </General_MetaData>
+        
+    <Photos>
+                
+        <Photo>
+                        
+            <id>35758b5e-b104-4b19-8fb3-ec5abe3c0962</id>
+                        
+            <Path>src/PhotoFolder/apple.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758b5e-b104-4b19-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/orange.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758b5e-b104-4b19-8dsfb3-d</id>
+                        
+            <Path>src/PhotoFolder/orange.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758b5e-b104-4b19-8dsfb3-d</id>
+                        
+            <Path>src/PhotoFolder/apple.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758b5e-b10sds4-4b19-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/apple.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758asb5e-b104-4b19-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/orange.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        
+        <Photo>
+                        
+            <id>35758b5e-b1dsds04-4b19-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/apple.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        
+        <Photo>
+                        
+            <id>35758b5e-ds-4b19-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/orange.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>ddsdsdsdsds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+                
+        <Photo>
+                        
+            <id>35758b5e-b104-ds-8fb3-d</id>
+                        
+            <Path>src/PhotoFolder/orange.png</Path>
+                        
+            <MetaData1>red</MetaData1>
+                        
+            <MetaData2>dds</MetaData2>
+                        
+            <MetaData3>dsd</MetaData3>
+                        
+            <MetaData4>dsds</MetaData4>
+                        
+            <MetaData5>21</MetaData5>
+                        
+            <MetaData6>32</MetaData6>
+                        
+            <MetaData7>fd</MetaData7>
+                        
+            <MetaData8>f</MetaData8>
+                    
+        </Photo>
+            
+    </Photos>
+    
+</Database1>

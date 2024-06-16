@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Database3>
+
+    <General_MetaData>
+        <Filter_Category1>Category of Filter1</Filter_Category1>
+        <Filter_Category2>Category of Filter2</Filter_Category2>
+        <Filter_Category3>Category of Filter3</Filter_Category3>
+        <Filter_Category4>Category of Filter4</Filter_Category4>
+        <Filter_Category5></Filter_Category5>
+        <Filter_Category6></Filter_Category6>
+        <Filter_Category7></Filter_Category7>
+        <Filter_Category8></Filter_Category8>
+    </General_MetaData>
+
+    <Photos>
+    </Photos>
+
+</Database3>

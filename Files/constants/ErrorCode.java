@@ -1,0 +1,21 @@
+package Files.constants;
+
+// οι κωδικοί σφαλμάτων για το PhotoManagerException
+
+public enum ErrorCode {
+    PHOTO_MANAGER_ERROR,
+    PHOTO_READ_ERROR,
+    PHOTO_INSERT_ERROR,
+    PHOTO_UPDATE_ERROR,
+    GENERAL_METADATA_UPDATE_ERROR,
+
+    PHOTO_DELETE_ERROR,
+    PHOTO_UPLOAD_ERROR,
+    XML_PARSE_ERROR,
+
+    USER_PROFILE_READ_ERROR,
+    GENERAL_USER_PROFILE_UPDATE_ERROR,
+    USER_PROFILE_DELETE_ERROR
+
+
+}

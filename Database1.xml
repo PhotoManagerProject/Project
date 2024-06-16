@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Database1>
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <General_MetaData>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category1>Color</Filter_Category1>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category2>Type of Device</Filter_Category2>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category3>Manufacturer</Filter_Category3>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category4>Price</Filter_Category4>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category5>Star Review</Filter_Category5>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category6>Sales</Filter_Category6>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category7>Release Date</Filter_Category7>
+                                  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <Filter_Category8>Comments</Filter_Category8>
+                              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </General_MetaData>
+                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <Photos>
+                                  
+  
+  
+            
+  
+  
+            
+  
+  
+            
+  
+  
+  
+  
+  
+                  
+  
+  
+            
+  
+  
+            
+  
+  
+            
+  
+  
+  
+  
+  
+                  
+  
+  
+            
+  
+  
+            
+  
+  
+            
+  
+  
+        
+  
+  
+   
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  <Photo>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <id>2aa8d6df-a3e4-4b4d-8932-3bedb56dca80</id>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <Path>src/PhotoFolder/yellowmouse.jpg</Path>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData1>yellow</MetaData1>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData2>mouse</MetaData2>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData3>razer</MetaData3>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData4>100</MetaData4>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData5>8</MetaData5>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData6>400</MetaData6>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData7>2019</MetaData7>
+                           
+   
+   
+   
+   
+   
+   
+   
+   <MetaData8/>
+                          
+  
+  
+  
+  
+  
+  
+  
+  </Photo>
+                 
+ 
+  
+  
+  
+     
+  
+  
+  
+  
+  
+  <Photo>
+                  
+   
+   
+   
+   
+   <id>1a181cff-4041-4622-9512-1712f682289c</id>
+                  
+   
+   
+   
+   
+   <Path>src/PhotoFolder/redpad.jpg</Path>
+                  
+   
+   
+   
+   
+   <MetaData1>red</MetaData1>
+                  
+   
+   
+   
+   
+   <MetaData2>mouse pad</MetaData2>
+                  
+   
+   
+   
+   
+   <MetaData3>xiaomi</MetaData3>
+                  
+   
+   
+   
+   
+   <MetaData4>25</MetaData4>
+                  
+   
+   
+   
+   
+   <MetaData5>9</MetaData5>
+                  
+   
+   
+   
+   
+   <MetaData6>100</MetaData6>
+                  
+   
+   
+   
+   
+   <MetaData7>2022</MetaData7>
+                  
+   
+   
+   
+   
+   <MetaData8/>
+                 
+  
+  
+  
+  
+  </Photo>
+           
+  
+  
+  
+  
+  <Photo>
+               
+   
+   
+   
+   <id>f938d640-e1ce-421d-a932-41fdc92c0767</id>
+               
+   
+   
+   
+   <Path>src/PhotoFolder/KeyBoard.jpg</Path>
+               
+   
+   
+   
+   <MetaData1>colorful</MetaData1>
+               
+   
+   
+   
+   <MetaData2>keyboard</MetaData2>
+               
+   
+   
+   
+   <MetaData3>logitech</MetaData3>
+               
+   
+   
+   
+   <MetaData4>120</MetaData4>
+               
+   
+   
+   
+   <MetaData5>6</MetaData5>
+               
+   
+   
+   
+   <MetaData6>19</MetaData6>
+               
+   
+   
+   
+   <MetaData7>2024</MetaData7>
+               
+   
+   
+   
+   <MetaData8/>
+              
+  
+  
+  
+  </Photo>
+         
+ 
+  
+  
+  <Photo>
+         
+   
+   <id>666c3ba6-7ca3-430b-b985-f2a5bba1d8e0</id>
+         
+   
+   <Path>src/PhotoFolder/ComputerScreen.jpg</Path>
+         
+   
+   <MetaData1>black</MetaData1>
+         
+   
+   <MetaData2>monitor</MetaData2>
+         
+   
+   <MetaData3>apple</MetaData3>
+         
+   
+   <MetaData4>900</MetaData4>
+         
+   
+   <MetaData5>10</MetaData5>
+         
+   
+   <MetaData6>1000</MetaData6>
+         
+   
+   <MetaData7>2021</MetaData7>
+         
+   
+   <MetaData8>Best in the market</MetaData8>
+        
+  
+  </Photo>
+     
+ 
+ </Photos>
+             
+
+
+
+
+
+
+
+
+
+
+
+
+</Database1>
